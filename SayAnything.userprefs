@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B406E8F2-1C03-4B91-8B58-73CF97EAE333}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SayAnything/RoundResults.cs">
+    <Files>
+      <File FileName="SayAnything/RoundResults.cs" Line="60" Column="4" />
+      <File FileName="SayAnything/AnswerEntry.cs" Line="16" Column="49" NotebookId="1" />
+      <File FileName="SayAnything/AskerSelection.cs" Line="37" Column="4" NotebookId="1" />
+      <File FileName="SayAnything/DisplayAskerSelection.cs" Line="126" Column="4" NotebookId="1" />
+      <File FileName="SayAnything/FinalResults.cs" Line="14" Column="4" NotebookId="1" />
+      <File FileName="SayAnything/SayAnything.cs" Line="11" Column="4" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SayAnything.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9E571C16-115E-4CDB-A138-D45BDD707690" />
+</Properties>
