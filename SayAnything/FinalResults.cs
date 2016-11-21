@@ -94,7 +94,7 @@ namespace SayAnything
 
 			Button doneButton = new Button
 			{
-				HorizontalOptions = LayoutOptions.End,
+				HorizontalOptions = LayoutOptions.Center,
 				BorderColor = Color.Blue,
 				BorderWidth = 1,
 				Text = "Done"
