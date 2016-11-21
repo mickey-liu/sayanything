@@ -1,12 +1,14 @@
 ﻿<Properties StartupConfiguration="{B406E8F2-1C03-4B91-8B58-73CF97EAE333}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SayAnything/RoundResults.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SayAnything/README.txt">
     <Files>
-      <File FileName="SayAnything/RoundResults.cs" Line="60" Column="4" />
-      <File FileName="SayAnything/AnswerEntry.cs" Line="16" Column="49" NotebookId="1" />
+      <File FileName="SayAnything/RoundResults.cs" Line="151" Column="3" />
+      <File FileName="SayAnything/AnswerEntry.cs" Line="90" Column="6" NotebookId="1" />
+      <File FileName="SayAnything/FinalResults.cs" Line="97" Column="45" NotebookId="1" />
       <File FileName="SayAnything/AskerSelection.cs" Line="37" Column="4" NotebookId="1" />
-      <File FileName="SayAnything/DisplayAskerSelection.cs" Line="126" Column="4" NotebookId="1" />
-      <File FileName="SayAnything/FinalResults.cs" Line="14" Column="4" NotebookId="1" />
-      <File FileName="SayAnything/SayAnything.cs" Line="11" Column="4" NotebookId="1" />
+      <File FileName="SayAnything/DisplayAskerSelection.cs" Line="53" Column="5" NotebookId="1" />
+      <File FileName="SayAnything/SayAnything.cs" Line="3" Column="7" NotebookId="1" />
+      <File FileName="SayAnything/README.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="SayAnything/README.txt" Line="1" Column="15" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
